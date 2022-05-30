@@ -129,12 +129,13 @@ endmodule
 
 
 #### TIMING DIGRAMS  
-![demuxrtl](https://user-images.githubusercontent.com/94169913/170923523-51f37258-1fec-4122-a3a2-4cf56e4f6025.png)
+![demuxwave](https://user-images.githubusercontent.com/94169913/170923880-e840e6a8-5244-4db3-8722-30eae5c31f16.png)
+
 
 
 
 #### TRUTH TABLE 
-![demuxrtl](https://user-images.githubusercontent.com/94169913/170923541-bf716630-6d6d-4878-8834-265e6afe5d7e.png)
+![demuxtt](https://user-images.githubusercontent.com/94169913/170923922-09b9a88e-a0c2-4b1d-9ef6-58e8ae44c1d1.png)
 
 
 
